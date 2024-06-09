@@ -1,0 +1,15 @@
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\bin\Debug\net6.0\Jankenpon.exe
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\bin\Debug\net6.0\Jankenpon.deps.json
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\bin\Debug\net6.0\Jankenpon.runtimeconfig.json
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\bin\Debug\net6.0\Jankenpon.dll
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\bin\Debug\net6.0\Jankenpon.pdb
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\Jankenpon.csproj.AssemblyReference.cache
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\Jankenpon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\Jankenpon.AssemblyInfoInputs.cache
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\Jankenpon.AssemblyInfo.cs
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\Jankenpon.csproj.CoreCompileInputs.cache
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\Jankenpon.dll
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\refint\Jankenpon.dll
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\Jankenpon.pdb
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\Jankenpon.genruntimeconfig.cache
+C:\Users\casasbahia\Documents\DevCs\Jankenpon\obj\Debug\net6.0\ref\Jankenpon.dll

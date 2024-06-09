@@ -1,2 +1,2 @@
-# PedraPapelTesoura
-Exercicío Etec
+# Jankenpon
+Training C#
