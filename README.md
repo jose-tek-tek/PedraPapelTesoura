@@ -1,0 +1,2 @@
+# PedraPapelTesoura
+Exercicío Etec
